@@ -1,0 +1,8 @@
+global-script:
+  version: 1.x
+  header: true
+  js:
+    js/scripts.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal

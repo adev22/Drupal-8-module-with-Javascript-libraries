@@ -1,0 +1,4 @@
+name: Drupal 8 js module
+description: Drupal 8 module with Implement JavaScript.
+type: module
+core: 8.x

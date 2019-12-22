@@ -1,0 +1,7 @@
+mymodule.content:
+  path: '/js-example'
+  defaults:
+    _title: 'Drupal 8 module with Implement JavaScript'
+    _controller: '\Drupal\mymodule\Controller\MymoduleController::content'
+  requirements:
+    _permission: 'access content'
